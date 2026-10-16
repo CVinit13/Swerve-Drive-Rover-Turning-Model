@@ -1,0 +1,8 @@
+{
+  "all_saved_simulation_states_finite": true,
+  "friction_circle_constraint_respected_at_saved_samples": true,
+  "straight_line_baseline_has_no_unintended_yaw": true,
+  "stationary_steering_case_has_zero_requested_body_twist": true,
+  "low_friction_stress_case_reaches_traction_boundary": true,
+  "low_motor_torque_stress_case_activates_torque_limit": true
+}

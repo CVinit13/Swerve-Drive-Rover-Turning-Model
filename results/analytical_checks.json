@@ -1,0 +1,10 @@
+{
+  "drive_stage1_is_plus_one_quarter": true,
+  "drive_stage2_is_minus_one_third": true,
+  "combined_drive_is_minus_one_twelfth": true,
+  "steering_is_plus_one_sixth": true,
+  "straight_kinematics_zero_angles": true,
+  "straight_kinematics_equal_speeds": true,
+  "in_place_corner_speed_magnitude": true,
+  "drive_power_efficiency_consistent": true
+}

@@ -1,0 +1,17 @@
+{
+  "normal_load_per_module_N": 293.1800996484007,
+  "rolling_resistance_per_module_N": 5.863601992968014,
+  "grade_force_per_module_N": 25.6499350906358,
+  "acceleration_force_per_module_N": 24.0,
+  "required_drive_force_per_module_N": 55.513537083603815,
+  "traction_limit_per_module_N": 205.22606975388047,
+  "traction_utilization_fraction": 0.2704994406908392,
+  "wheel_torque_per_module_Nm": 5.273786022942362,
+  "motor_torque_per_module_Nm": 0.5192369666570535,
+  "wheel_speed_at_1p2mps_rad_s": 12.631578947368421,
+  "wheel_speed_at_1p2mps_rpm": 120.62269371175226,
+  "motor_speed_magnitude_rad_s": 151.57894736842104,
+  "motor_speed_magnitude_rpm": 1447.472324541027,
+  "motor_power_per_module_W": 78.70539284064812,
+  "four_module_motor_power_W": 314.82157136259246
+}
